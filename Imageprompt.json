@@ -1,0 +1,146 @@
+{
+  "SCALE": {
+    "Subject": {
+      "era": "Tamil Nadu, approximately 1725 CE",
+      "primary_scene": "A culturally authentic rural Tamil village during the agricultural season",
+      "people": [
+        "Tamil farmers wearing traditional veshti, angavastram and simple handwoven cotton garments",
+        "Tamil women wearing traditional handwoven sarees with period-appropriate draping",
+        "village elders, children, agricultural workers and temple devotees",
+        "young men participating in a traditional jallikattu event"
+      ],
+      "animals": [
+        "strong native Tamil cattle breeds such as Kangayam-type bulls",
+        "humped bulls decorated with traditional cloth and flower garlands",
+        "working oxen pulling wooden ploughs and bullock carts",
+        "cows and calves around village homes"
+      ],
+      "cultural_details": [
+        "traditional jasmine flowers in women's braided hair",
+        "period-appropriate gold and silver jewellery",
+        "natural cotton and handwoven textiles",
+        "traditional agricultural tools made from wood and iron",
+        "authentic rural Tamil appearance and hairstyles"
+      ]
+    },
+
+    "Composition": {
+      "format": "single cinematic historical scene",
+      "aspect_ratio": "16:9",
+      "framing": "wide panoramic composition showing village life, agricultural fields and a jallikattu arena within one coherent landscape",
+      "foreground": "a powerful decorated native bull and several farmers preparing for jallikattu, with spectators standing at a safe traditional viewing area",
+      "middle_ground": "farmers ploughing fertile paddy fields with pairs of oxen, bullock carts carrying agricultural produce, villagers tending cattle",
+      "background": "traditional Tamil village houses, coconut and palmyra palms, a historic temple tower, irrigation tank and distant green agricultural fields",
+      "depth": "strong foreground, middle-ground and background separation with realistic atmospheric perspective",
+      "camera": "35mm cinematic photography, eye-level perspective with a slightly elevated panoramic viewpoint",
+      "visual_focus": "the decorated bull as the focal point, while farming and village life remain clearly visible"
+    },
+
+    "Action": {
+      "farming": [
+        "farmers guiding wooden ploughs pulled by native bulls through a paddy field",
+        "workers planting and harvesting crops by hand",
+        "villagers carrying baskets of grain and agricultural produce",
+        "oxen transporting crops in traditional wooden bullock carts"
+      ],
+      "cattle": [
+        "farmers washing and grooming their bulls",
+        "cattle resting beneath large shade trees",
+        "women and children caring for cows and calves near village houses",
+        "bulls wearing simple traditional cloth decorations and fresh flower garlands"
+      ],
+      "jallikattu": [
+        "a traditional village jallikattu gathering taking place in an open earthen arena",
+        "young Tamil men attempting to hold onto the hump of a powerful native bull",
+        "the bull running energetically through the arena",
+        "villagers watching from behind traditional barriers",
+        "drummers creating a festive village atmosphere"
+      ],
+      "behavior": "natural human expressions, respectful interaction with animals, energetic but historically grounded movement",
+      "historical_note": "depict jallikattu as a traditional Tamil bull-taming festival without modern stadium infrastructure, modern safety equipment or contemporary event branding"
+    },
+
+    "Location": {
+      "region": "rural Tamil Nadu, South India",
+      "period": "approximately 1725 CE",
+      "landscape": [
+        "lush paddy fields",
+        "traditional irrigation channels",
+        "village water tank",
+        "palmyra and coconut trees",
+        "large banyan and neem trees",
+        "earthen village paths",
+        "open agricultural land"
+      ],
+      "architecture": [
+        "traditional Tamil village houses with lime-plastered or earthen walls",
+        "terracotta tiled roofs",
+        "wooden doors and verandas",
+        "historic South Indian temple architecture",
+        "no modern concrete construction"
+      ],
+      "jallikattu_setting": "a simple open village ground surrounded by spectators, temporary wooden or natural-fiber barriers and traditional village structures",
+      "season": "agricultural festival season, with vibrant green fields and warm tropical sunlight"
+    },
+
+    "Esthatic": {
+      "style": "photorealistic historical documentary photography",
+      "visual_quality": "high-detail cinematic realism, authentic human anatomy and realistic animal anatomy",
+      "lighting": "warm golden morning sunlight with soft natural shadows",
+      "color_palette": [
+        "paddy-field green",
+        "earthy brown",
+        "terracotta red",
+        "natural cotton white",
+        "deep indigo",
+        "muted turmeric yellow",
+        "warm golden tones"
+      ],
+      "materials": "handwoven cotton, rough wood, aged stone, terracotta, leather, natural fiber, mud and weathered metal",
+      "atmosphere": "warm, dusty, festive rural Tamil atmosphere with subtle morning haze",
+      "cinematography": "35mm historical-film aesthetic, realistic depth of field, natural skin texture, subtle film grain, restrained cinematic contrast",
+      "authenticity": "prioritize historically plausible Tamil clothing, architecture, farming equipment, cattle, village life and material culture; avoid generic pan-Indian visual stereotypes"
+    }
+  },
+
+  "negative_prompt": [
+    "modern buildings",
+    "concrete houses",
+    "electric poles",
+    "electric wires",
+    "cars",
+    "motorcycles",
+    "tractors",
+    "modern agricultural machinery",
+    "plastic objects",
+    "modern roads",
+    "modern fences",
+    "modern stadium",
+    "modern sports equipment",
+    "modern safety helmets",
+    "modern protective clothing",
+    "modern footwear",
+    "wristwatches",
+    "mobile phones",
+    "cameras",
+    "modern jewelry",
+    "synthetic fabrics",
+    "modern hairstyles",
+    "modern makeup",
+    "stainless steel utensils",
+    "plastic containers",
+    "English signage",
+    "modern Tamil signage",
+    "modern logos",
+    "fantasy costumes",
+    "Bollywood costumes",
+    "generic Indian village stereotype",
+    "incorrect cattle anatomy",
+    "exaggerated bull size",
+    "cartoon style",
+    "fantasy architecture",
+    "anachronistic objects",
+    "modern jallikattu arena",
+    "modern crowd-control barriers"
+  ]
+}

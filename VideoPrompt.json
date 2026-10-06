@@ -1,0 +1,139 @@
+{
+  "SCALE": {
+    "Subject": {
+      "time_period": "Tamil Nadu, South India, circa 1725 CE",
+      "people": [
+        "Tamil farmers wearing traditional veshti and simple upper cloth",
+        "Tamil women wearing historically appropriate sarees draped in period-appropriate styles",
+        "village elders, artisans, merchants, children and temple devotees",
+        "traditional agricultural workers and bullock-cart drivers"
+      ],
+      "cultural_details": [
+        "authentic South Indian facial features and hairstyles",
+        "men with traditional moustaches and hair styles appropriate to the period",
+        "women with long braided hair decorated with fresh jasmine flowers",
+        "traditional gold and silver jewellery appropriate to social status",
+        "barefoot villagers and workers"
+      ],
+      "historical_context": "Everyday Tamil life in the early 18th century, before modern industrialization and modern urban development"
+    },
+
+    "Composition": {
+      "shot_type": "cinematic wide establishing shot transitioning into medium and close-up observational shots",
+      "camera": "slow, natural camera movement at human eye level, occasional elevated wide shot",
+      "framing": "layered composition with foreground villagers, middle-ground activity, and temple, fields or village houses in the background",
+      "depth": "natural atmospheric depth with soft morning haze",
+      "visual_storytelling": "show ordinary daily life rather than staged posing",
+      "aspect_ratio": "16:9",
+      "camera_motion": "slow cinematic tracking, gentle handheld movement, subtle crane movement, no modern drone aesthetic"
+    },
+
+    "Action": {
+      "primary_action": "A peaceful morning unfolds in a Tamil village around 1725 CE.",
+      "sequence": [
+        "farmers guide wooden ploughs pulled by native bulls through a paddy field",
+        "women draw water from a traditional village well using rope and vessels",
+        "a bullock cart slowly travels along an unpaved village road",
+        "artisans work with traditional hand tools",
+        "a potter shapes clay vessels on a traditional pottery wheel",
+        "children walk through the village alongside adults",
+        "flower sellers arrange jasmine and other locally grown flowers",
+        "devotees walk toward a historic South Indian temple",
+        "temple bells move gently in the morning breeze",
+        "smoke rises naturally from household cooking fires",
+        "birds move between palm trees and tiled-roof houses"
+      ],
+      "movement_style": "natural, unhurried, observational and historically grounded",
+      "human_behavior": "people interact naturally and respectfully, without looking at the camera or behaving like modern actors"
+    },
+
+    "Location": {
+      "region": "historic Tamil Nadu, South India",
+      "environment": [
+        "lush paddy fields",
+        "irrigation channels and traditional water tanks",
+        "palmyra and coconut palms",
+        "large shade trees",
+        "earthen village paths",
+        "traditional Tamil houses with lime-plastered walls and clay-tiled roofs",
+        "historic South Indian temple with stone architecture",
+        "small market area with wooden stalls and woven baskets"
+      ],
+      "architecture": "period-appropriate Tamil architecture using stone, timber, lime plaster and terracotta tiles; no concrete, glass, steel or modern construction",
+      "objects": [
+        "earthen pots",
+        "brass and bronze vessels",
+        "woven palm-leaf baskets",
+        "wooden agricultural tools",
+        "traditional bullock carts",
+        "oil lamps",
+        "handwoven textiles"
+      ],
+      "weather": "warm tropical morning with soft sunlight, light humidity and subtle atmospheric haze"
+    },
+
+    "Esthatic": {
+      "style": "historically grounded cinematic realism",
+      "visual_reference": "high-end historical period film with documentary-like authenticity",
+      "lighting": "warm early-morning natural sunlight, soft shadows, gentle golden highlights",
+      "color_palette": [
+        "earthy terracotta",
+        "muted turmeric yellow",
+        "deep indigo",
+        "natural cotton white",
+        "paddy green",
+        "warm brown",
+        "stone grey"
+      ],
+      "texture": "realistic skin, handwoven cotton, weathered wood, aged stone, terracotta, mud and natural vegetation",
+      "atmosphere": "peaceful, humid, rural, spiritual and deeply connected to the landscape",
+      "cinematography": "35mm film aesthetic, subtle film grain, realistic lens behavior, natural depth of field, restrained contrast",
+      "authenticity": "avoid romanticized fantasy; prioritize plausible historical material culture, clothing, architecture, tools and everyday behavior"
+    }
+  },
+
+  "negative_prompt": [
+    "modern buildings",
+    "concrete houses",
+    "electric poles",
+    "electric wires",
+    "cars",
+    "motorcycles",
+    "buses",
+    "plastic objects",
+    "modern roads",
+    "modern footwear",
+    "watches",
+    "eyeglasses",
+    "modern jewelry designs",
+    "synthetic fabrics",
+    "modern hairstyles",
+    "modern makeup",
+    "mobile phones",
+    "cameras",
+    "modern farming machinery",
+    "tractors",
+    "modern shop signs",
+    "English text",
+    "modern Tamil signage",
+    "colonial-era objects unless historically appropriate to the specific scene",
+    "fantasy architecture",
+    "Bollywood-style costumes",
+    "generic pan-Indian costumes",
+    "overly ornate fictional costumes",
+    "modern cinematic stereotypes",
+    "anachronistic objects",
+    "plastic water containers",
+    "modern stainless-steel vessels"
+  ],
+
+  "video_parameters": {
+    "duration": "10-15 seconds",
+    "fps": 24,
+    "resolution": "4K",
+    "motion": "naturalistic",
+    "camera_stability": "smooth cinematic movement",
+    "realism": "photorealistic",
+    "historical_accuracy_priority": "very high"
+  }
+}
